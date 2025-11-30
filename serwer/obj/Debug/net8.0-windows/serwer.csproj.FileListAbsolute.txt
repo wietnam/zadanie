@@ -1,0 +1,16 @@
+C:\Users\ewel4\Desktop\zadanko\serwer\bin\Debug\net8.0-windows\serwer.exe
+C:\Users\ewel4\Desktop\zadanko\serwer\bin\Debug\net8.0-windows\serwer.deps.json
+C:\Users\ewel4\Desktop\zadanko\serwer\bin\Debug\net8.0-windows\serwer.runtimeconfig.json
+C:\Users\ewel4\Desktop\zadanko\serwer\bin\Debug\net8.0-windows\serwer.dll
+C:\Users\ewel4\Desktop\zadanko\serwer\bin\Debug\net8.0-windows\serwer.pdb
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.Form1.resources
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.csproj.GenerateResource.cache
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.AssemblyInfoInputs.cache
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.AssemblyInfo.cs
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.csproj.CoreCompileInputs.cache
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.dll
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\refint\serwer.dll
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.pdb
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\serwer.genruntimeconfig.cache
+C:\Users\ewel4\Desktop\zadanko\serwer\obj\Debug\net8.0-windows\ref\serwer.dll

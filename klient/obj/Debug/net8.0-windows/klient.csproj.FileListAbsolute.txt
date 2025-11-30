@@ -1,0 +1,16 @@
+C:\Users\ewel4\Desktop\zadanko\klient\bin\Debug\net8.0-windows\klient.exe
+C:\Users\ewel4\Desktop\zadanko\klient\bin\Debug\net8.0-windows\klient.deps.json
+C:\Users\ewel4\Desktop\zadanko\klient\bin\Debug\net8.0-windows\klient.runtimeconfig.json
+C:\Users\ewel4\Desktop\zadanko\klient\bin\Debug\net8.0-windows\klient.dll
+C:\Users\ewel4\Desktop\zadanko\klient\bin\Debug\net8.0-windows\klient.pdb
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.Form1.resources
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.csproj.GenerateResource.cache
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.AssemblyInfoInputs.cache
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.AssemblyInfo.cs
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.csproj.CoreCompileInputs.cache
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.dll
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\refint\klient.dll
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.pdb
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\klient.genruntimeconfig.cache
+C:\Users\ewel4\Desktop\zadanko\klient\obj\Debug\net8.0-windows\ref\klient.dll

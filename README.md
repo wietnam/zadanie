@@ -1,0 +1,1 @@
+zapis rzeczy w %appdata%
